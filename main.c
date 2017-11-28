@@ -26,7 +26,7 @@ int main() {
     
 }
 
-void swap(int *p, int *q) {// function definition, p is initilised with address of a, q is b
+void swap(int *p, int *q) {// function definition, p is initialize with address of a, q is b
     int temp;
     temp = *p;
     *p = *q;
